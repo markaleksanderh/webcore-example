@@ -70,8 +70,8 @@ There are two sizes of the contributor component; small and large.
 
 | | |
 |-|-|
-| ![Large size](large-size.png) | |
-| ![Small size](small-size.png) | |
+| ![Large size](large-size.png) | **Large size** <br> Large size should be used when possible. |
+| ![Small size](small-size.png) | **Small size** <br> Use the small size when space is limited. |
 
 
 
