@@ -17,3 +17,20 @@ See related components.
 ![View Storybook](view-storybook.png)
 
 ![Download sketch](download-sketch.png)
+
+***
+
+## Guideline
+
+### Types
+
+lorem ipsum
+
+#### 1. Person contributor
+
+![Person contributor](person-contributor.png)
+
+
+#### 2. Organisation contributor
+
+![Organisation contributor](organisation-contributor.png)
