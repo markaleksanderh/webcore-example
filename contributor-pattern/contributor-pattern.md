@@ -48,15 +48,16 @@ The format of the contributor is:
 1. Name of person or an organisation.
 2. Job description.
 
-It’s different when we need to be specific around a contributor’s role in creating the content. In which case it follows the format:
+Where the contributor's role in creating the content needs to be specific, the pattern should follow the format:
+
 
 
 1. Written by/presented by
 2. Name of person or organisation
 
-In both cases where the name is a link, this must be displayed in a bold weight.
+In both cases where the name is a link the name must be displayed in a bold weight.
 
-A default fallback Icon should be used in the scenario when the contributors image cannot be accessed.
+A default fallback icon should be used in the scenario when the contributors image cannot be accessed.
 
 Where a person is a contributor the image should be a circle. Where a brand or an organisation is a contributor, the image should be square.
 
