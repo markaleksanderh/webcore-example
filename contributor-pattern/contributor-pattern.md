@@ -60,15 +60,22 @@ A default fallback Icon should be used in the scenario when the contributors ima
 
 Where a person is a contributor the image should be a circle. Where a brand or an organisation is a contributor, the image should be square.
 
-TABLE
+
 
 ***
 
 ## Sizes
 
-There are two sizes of the contributor component, small and large.
+There are two sizes of the contributor component; small and large.
 
-TABLE
+| | |
+|-|-|
+| [Large size](large-size.png) | |
+| [Small size](small-size.png) | |
+
+
+
+
 
 ## Alignments
 
