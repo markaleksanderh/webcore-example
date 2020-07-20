@@ -118,3 +118,39 @@ We can add the contributor’s Twitter handle to the configuration.
 | hover | | |
 | ------- |-|-|
 | ![Default Twitter state](twitter-hover-state.png) | **Colour** | **Typography** |
+
+
+***
+
+
+## Checklist
+
+
+
+
+***
+
+
+## Related patterns
+
+
+
+***
+
+
+## Research
+
+
+
+***
+
+## Changelog
+
+The changelog should use semantic versioning, `major.minor.patch`. Changes should be categorised according to type, `added`, `changed`, `removed`, `fixed`.
+
+| Date | Version no. | Type | Description | Author |
+| ---- | ----------- | ---- | ----------- | ------ |
+| 17/07/2020 | 2.5.0 | Added | Additions should be labeled `added`, e.g. _Added hover state_. Minor version number should increment by one.| Andrew Nott |
+| 15/07/2020 | 2.4.0 | Changed | Changes should be labeled `changed`, e.g. _increased left and right margin by 2px_. Minor version number should increment by one. | Andrew Nott |
+| 14/07/2020 | 2.3.0 | Removed | Removals should be labeled `removed`, e.g. *removed unused selected state*. Minor version number should increment by one. | Andrew Nott |
+| 13/07/2020 | 2.2.1 | Fixed | Fixes should be labled `fixed`, e.g. _fixed typo_. Patch version number should increment by one. | Andrew Nott |
