@@ -57,9 +57,12 @@ Where the contributor's role in creating the content needs to be specific, the p
 
 In both cases where the name is a link the name must be displayed in a bold weight.
 
+
+![Caution!](caution.png)
+
 A default fallback icon should be used in the scenario when the contributors image cannot be accessed.
 
-Where a person is a contributor the image should be a circle. Where a brand or an organisation is a contributor, the image should be square.
+Use a circle where the contributor is a person. Where the contributor is an organisation a square should be used.
 
 
 
