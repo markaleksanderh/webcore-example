@@ -12,7 +12,7 @@ A contributor is used to credit content to a person or an organisation/brand.
 
 - A contributor should not be used as a card element.
 
-See related components.
+Not the pattern you are looking for? See [related components]().
 
 ![View Storybook](view-storybook.png)
 
