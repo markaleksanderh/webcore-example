@@ -82,7 +82,7 @@ There are four layouts that can be used for the contributor component depending 
 
 | | |
 |-|-|
-| 
+| ![Alignment name](alignment-name.png) | Name only |
 
 
 The text area should be vertically aligned according to the centre of the image.
