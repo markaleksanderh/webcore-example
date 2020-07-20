@@ -85,7 +85,7 @@ There are four layouts that can be used for the contributor component depending 
 | ![Alignment name](alignment-name.png) | Name only |
 | ![Alignment name](alignment-image-name.png) | Image + name |
 | ![Alignment name](alignment-image-name-description.png) | Image + name + description |
-| ![Alignment name](alignment-name-handle.png) | Image + name + Twitter handle |
+| ![Alignment name](alignment-image-name-handle.png) | Image + name + Twitter handle |
 
 
 
