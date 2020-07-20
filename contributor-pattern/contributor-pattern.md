@@ -109,16 +109,12 @@ We can turn the contributors name into a link to move the user on to more conten
 
 | Default | | |
 | ------- |-|-|
-| ![Default state](default-state.png) | **Colour** <br> Name: Core primary <br>
-Description: Core secondary | **Typography** <br>Name: Emphasised
-<br> Description: Standard |
+| ![Default state](default-state.png) | **Colour** | **Typography** |
 
 
 | Hover | | |
 | ------- |-|-|
-| ![Default state](hover-state.png) | **Colour** <br>Name: Accent
-<br>Description: Core secondary | **Typography** <br>Name: Emphasised
-<br>Description: Standard |
+| ![Default state](hover-state.png) | **Colour** | **Typography** |
 
 
 #### Twitter handle as link
