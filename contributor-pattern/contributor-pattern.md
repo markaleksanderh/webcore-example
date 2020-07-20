@@ -144,7 +144,8 @@ We can add the contributor’s Twitter handle to the configuration.
 
 ## Related patterns
 
-
+- Inline link
+- Promo
 
 ***
 
