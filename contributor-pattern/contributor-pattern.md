@@ -70,9 +70,8 @@ There are two sizes of the contributor component; small and large.
 
 | | |
 |-|-|
-| [Large size](large-size.png) | |
-| [Small size](small-size.png) | |
-
+| ![Large size](large-size.png) | |
+| ![Small size](small-size.png) | |
 
 
 
@@ -81,9 +80,10 @@ There are two sizes of the contributor component; small and large.
 
 There are four layouts that can be used for the contributor component depending on the type of information we want to display.
 
+| | |
+|-|-|
+| 
 
-
-TABLE
 
 The text area should be vertically aligned according to the centre of the image.
 
@@ -132,7 +132,11 @@ We can add the contributor’s Twitter handle to the configuration.
 
 ## Checklist
 
-
+| Checklist | Status |
+| --------- | ------ |
+| Sketch file added | :white_check_mark: |
+| Accessibility test conducted | :x: |
+| Storybook link available | :white_check_mark: |
 
 
 ***
