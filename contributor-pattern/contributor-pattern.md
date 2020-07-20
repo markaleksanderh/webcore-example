@@ -12,11 +12,11 @@ A contributor is used to credit content to a person or an organisation/brand.
 
 - Describe a use case for where the pattern should not be used but could be mistakenly used, e.g. _do not use contributor pattern as a card element_.
 
+![View Storybook instance](view-storybook.png) for this pattern.
+
+![Download Sketch file](download-sketch.png) for this pattern.
 
 
-[Download Sketch file]() for this pattern.
-
-[View Storybook instance]() for this pattern.
 
 
 Not the pattern you're looking for? Check [related patterns]().
