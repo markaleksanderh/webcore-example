@@ -1,8 +1,8 @@
 # Contributor pattern
 
-Include a clear description of the pattern stating what used requirement is accomplished by the pattern.
+Include a clear description of the pattern stating what user requirement is accomplished by the pattern.
 
-![Contributor pattern example](example.png)
+``` Image ```
 
 ### When to use
 
@@ -11,7 +11,6 @@ Include a clear description of the pattern stating what used requirement is acco
 ### When not to use
 
 - Describe a use case for where the pattern should not be used but could be mistakenly used, e.g. _do not use contributor pattern as a card element_.
-
 
 
 [Download Sketch file]() for this pattern.
@@ -26,15 +25,11 @@ Not the pattern you're looking for? Check [related patterns]().
 
 ## Guidelines
 
-### Types & Anatomy
+### Types
 
-Describe different types of pattern. A good example of a pattern is primary, secondary, etc.
+Describe different types used for the pattern, for example, _primary, secondary, destructive_.
 
-| image | image |
-| ----- | ----- |
-| link  | link  |
-| link  | link  |
-
+#### Example type
 
 
 > :exclamation: Caution :exclamation:
@@ -43,13 +38,14 @@ Describe different types of pattern. A good example of a pattern is primary, sec
 
 
 
-
-
 ### Variants
 
 Variants are the added elements a pattern may include, buttons with or without labels or icons.
 
 ### Size
+
+A pattern may have different configurations depending on the space available. Describe all sizes outlining the scenarios where a particular configuration is used.
+
 
 ### Alignment
 
