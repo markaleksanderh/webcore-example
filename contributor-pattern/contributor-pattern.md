@@ -24,7 +24,7 @@ See related components.
 
 ### Types
 
-lorem ipsum
+There are two types of contributor pattern depending on whether the contributor is a person or an organisation.
 
 #### 1. Person contributor
 
