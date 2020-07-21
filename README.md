@@ -9,5 +9,5 @@
 | Inline link | [Storybook instance]() | [Sketch file]() |
 
 ## Creating a new pattern?
-- [How to create a guideline](how-to-create-a-guideline.md).
-- [How to create a design asset]().
+- [How to create a guideline](how-to-create-a-guideline.md)
+- [How to create a design asset]()
