@@ -1,5 +1,6 @@
 # Pattern name
 
+Number pagination helps the user navigate through pages when there's a lot of content.
 
 ### When to use
 
