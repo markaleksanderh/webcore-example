@@ -7,9 +7,6 @@ Number pagination helps the user navigate through pages when there's a lot of co
 - Use pagination when when there are a large number of items that are distributed across multiple pages and there are too many results to show at once. < used in search
 - Pagination should also be used where content is separated by topic but belongs to the same theme c.f. Bitesize revision pages
 
-### When not to use
-
-- n/a
 
 
 [Download Sketch file]() for this pattern.
@@ -32,6 +29,8 @@ Not the pattern you're looking for? Check [related patterns]().
 - Three pages
 - 12 pages
 - 250 pages
+- First and last pages disable buttons
+- Ellipsis is not interactive
 
 
 ***
@@ -45,6 +44,7 @@ Not the pattern you're looking for? Check [related patterns]().
 | Default | |
 | Hover | |
 | Focus | |
+| Disabled | |
 
 
 ***
