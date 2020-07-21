@@ -38,7 +38,8 @@ Not the pattern you're looking for? Check [related patterns]().
 
 #### Rules
 
-Text can only be on one line. Text does not wrap.
+- Should not display rich text.
+- Text can only be on one line. Text does not wrap.
 
 ### State
 
