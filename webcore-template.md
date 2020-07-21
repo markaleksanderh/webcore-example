@@ -1,4 +1,4 @@
-# Contributor pattern
+# Pattern name
 
 
 ### When to use
